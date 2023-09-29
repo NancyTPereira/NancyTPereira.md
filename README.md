@@ -1,5 +1,5 @@
 # Olá meu nome é Nancy
-👩‍💻 Hoje trabalho como analista de suporte de infraestrutura em Ti.
+👩‍💻 Experiência de dois anos como analista de suporte de infraestrutura em Ti.
 
 👩‍🎓 Graduada em Processos Gerenciais, Sistemas para Internet e cursando Ciência da Felicidade.
 
