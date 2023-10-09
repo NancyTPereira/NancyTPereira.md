@@ -17,4 +17,3 @@
 
 </div>
 
-<div class="tenor-gif-embed" data-postid="12710404" data-share-method="host" data-aspect-ratio="0.662651" data-width="100%"><a href="https://tenor.com/view/harry-potter-ravenclaw-emblem-gif-12710404">Harry Potter Ravenclaw GIF</a>from <a href="https://tenor.com/search/harry+potter-gifs">Harry Potter GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
