@@ -1,7 +1,7 @@
 # Olá meu nome é Nancy
 👩‍💻 Experiência de dois anos como analista de suporte de infraestrutura em Ti.
 
-👩‍🎓 Graduada em Processos Gerenciais, Sistemas para Internet e cursando Ciência da Felicidade.
+👩‍🎓 Graduada em Processos Gerenciais e Sistemas para Internet e cursando Ciência da Computação em Harvard.
 
 🧠 Estudante de Ciência de Dados com ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) na DIO > https://www.dio.me/.
 
